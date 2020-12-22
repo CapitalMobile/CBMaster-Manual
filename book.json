@@ -5,10 +5,10 @@
     "generator": "site",
     "links": {
         "sharing": {
-            "all": true,
-            "facebook": true,
-            "google": true,
-            "twitter": true,
+            "all": false,
+            "facebook": false,
+            "google": false,
+            "twitter": false,
             "weibo": false
         },
         "sidebar": {
