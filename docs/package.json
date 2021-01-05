@@ -6,11 +6,12 @@
   "dependencies": {
     "del": "^6.0.0",
     "gitbook": "^2.6.9",
-    "gulp": "^4.0.2",
     "gulp-gitbook": "^0.0.2",
     "gulp-load-plugins": "^2.0.6"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
